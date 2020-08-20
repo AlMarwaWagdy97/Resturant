@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfCostomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Costomer>
+    <Name>ko</Name>
+    <Phone>123</Phone>
+    <Password>123</Password>
+    <Region>Ain-Shams</Region>
+    <Address>nufnf</Address>
+    <num_of_order>140</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>dodo</Name>
+    <Phone> 555</Phone>
+    <Password>aaa</Password>
+    <Region>Matarya</Region>
+    <Address>aaa</Address>
+    <num_of_order>0</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>tata</Name>
+    <Phone>456</Phone>
+    <Password>456</Password>
+    <Region>Down Town</Region>
+    <Address>jhghfj</Address>
+    <num_of_order>0</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>rere</Name>
+    <Phone>789</Phone>
+    <Password>789</Password>
+    <Region>Doki</Region>
+    <Address>wertyui</Address>
+    <num_of_order>1</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>Marwa</Name>
+    <Phone>0105040712</Phone>
+    <Password>01356351355</Password>
+    <Region>Abassia</Region>
+    <Address>12 street</Address>
+    <num_of_order>2</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>Marwa</Name>
+    <Phone>01225</Phone>
+    <Password>123456</Password>
+    <Region>Alf-Maskan</Region>
+    <Address>gckugj</Address>
+    <num_of_order>1</num_of_order>
+  </Costomer>
+  <Costomer>
+    <Name>sfg</Name>
+    <Phone>852</Phone>
+    <Password>852</Password>
+    <Region>Ain-Shams</Region>
+    <Address>jk</Address>
+    <num_of_order>0</num_of_order>
+  </Costomer>
+</ArrayOfCostomer>

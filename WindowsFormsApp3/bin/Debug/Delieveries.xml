@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="Deliveries">
+  <Delievery>
+    <Area>Abassia</Area>
+    <Date>4/23/2018</Date>
+    <no_orders>53</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>Matarya</Area>
+    <Date>4/23/2018</Date>
+    <no_orders>3</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>Abassia</Area>
+    <Date>4/25/2018</Date>
+    <no_orders>1</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>Matarya</Area>
+    <Date>4/25/2018</Date>
+    <no_orders>2</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>Ain-Shams</Area>
+    <Date>4/23/2018</Date>
+    <no_orders>2</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>
+    </Area>
+    <Date>4/23/2018</Date>
+    <no_orders>2</no_orders>
+  </Delievery>
+  <Delievery>
+    <Area>Down Town</Area>
+    <Date>4/23/2018</Date>
+    <no_orders>1</no_orders>
+  </Delievery>
+</Table>
